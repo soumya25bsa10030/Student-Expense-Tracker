@@ -2,7 +2,7 @@
 Overview of the Project
 The Student Expense Tracker is a Python-based application that helps students take control of their finances. It provides intelligent expense tracking, budget management, and predictive analytics to transform financial stress into confident money management through an intuitive console interface.
 
-## *OBJECTIVES - STUDENT EXPENSE TRACKER* 
+## *OBJECTIVES  
 ● To focus on wise and conscious expenditure 
 ● To categorize the expenditure under different domains like food expenses , rent etc .
 ● Easy mangement of budget 

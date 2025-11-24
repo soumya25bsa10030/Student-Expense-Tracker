@@ -12,8 +12,6 @@ The Student Expense Tracker is a Python-based application that helps students ta
 1. Expense Tracking: Record and categorize daily spending
 2. Budget Management: Set and monitor monthly limits
 3. Bill Reminders: Schedule and track payment deadlines
-4. Spending Analytics: Visual reports with category breakdowns
-5. AI Predictions: Forecast future expenses using algorithms
 6.Data Persistence: Automatic save/load functionality
 7.CRUD Operations: Full Create, Read, Update, Delete capabilities
 
@@ -22,8 +20,6 @@ The Student Expense Tracker is a Python-based application that helps students ta
 - **Expense Tracking**: Record daily spending with categories like food, transport, books
 - **Budget Management**: Set monthly spending limits and track progress
 - **Bill Reminders**: Schedule payments and get due date alerts
-- **Spending Insights**: View visual reports showing where money goes
-- **Future Predictions**: Get smart forecasts of upcoming expenses
 - **Data Safety**: Automatic saving and backup of all financial records
 - **Easy Editing**: Update or delete transactions and bills as needed
 

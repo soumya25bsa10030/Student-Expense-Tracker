@@ -12,8 +12,8 @@ The Student Expense Tracker is a Python-based application that helps students ta
 1. Expense Tracking: Record and categorize daily spending
 2. Budget Management: Set and monitor monthly limits
 3. Bill Reminders: Schedule and track payment deadlines
-6.Data Persistence: Automatic save/load functionality
-7.CRUD Operations: Full Create, Read, Update, Delete capabilities
+4.Data Persistence: Automatic save/load functionality
+5.CRUD Operations: Full Create, Read, Update, Delete capabilities
 
 
 ## **Functional Requirements**
